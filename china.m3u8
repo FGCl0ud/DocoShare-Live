@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV 1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1,tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV 2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1,tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV 3
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1,tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV 4
+http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1,tvg-logo="https://web.gxnas.com/iptv_logo/cctv5.png",CCTV 5
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+#EXTINF:-1,tvg-logo="https://web.gxnas.com/iptv_logo/cctv5+.png",CCTV 5+
+http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1,tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV 6
+http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
